@@ -1,3 +1,0 @@
-https://ml-playground.com/#  "Machine Learning Playground"
-
-https://teachablemachine.withgoogle.com/ "Teachable Machine"
