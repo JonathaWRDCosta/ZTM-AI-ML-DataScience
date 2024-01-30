@@ -7,19 +7,6 @@ Welcome to the repository for the "Complete A.I. Machine Learning and Data Scien
   - [Table of Contents](#table-of-contents)
   - [Course Overview](#course-overview)
   - [Getting Started](#getting-started)
-  - [Machine Learning Basics](#machine-learning-basics)
-  - [Tools and Environment Setup](#tools-and-environment-setup)
-  - [Pandas and Data Manipulation](#pandas-and-data-manipulation)
-  - [NumPy and Array Operations](#numpy-and-array-operations)
-  - [Data Visualization with Matplotlib](#data-visualization-with-matplotlib)
-  - [Introduction to Scikit-learn](#introduction-to-scikit-learn)
-  - [Machine Learning Model Evaluation](#machine-learning-model-evaluation)
-  - [Tuning and Improving Models](#tuning-and-improving-models)
-  - [Building Practical Projects](#building-practical-projects)
-  - [Deep Learning and Unstructured Data](#deep-learning-and-unstructured-data)
-  - [Data Engineering](#data-engineering)
-  - [Communication and Sharing Your Work](#communication-and-sharing-your-work)
-  - [Learning Path and Additional Resources](#learning-path-and-additional-resources)
 
 ## Course Overview
 
@@ -47,57 +34,3 @@ To get started with the course, follow these steps:
     ```
 
 2. Navigate to the course modules and start with the introductory sections.
-
-## Machine Learning Basics
-
-...
-
-## Tools and Environment Setup
-
-...
-
-## Pandas and Data Manipulation
-
-...
-
-## NumPy and Array Operations
-
-...
-
-## Data Visualization with Matplotlib
-
-...
-
-## Introduction to Scikit-learn
-
-...
-
-## Machine Learning Model Evaluation
-
-...
-
-## Tuning and Improving Models
-
-...
-
-## Building Practical Projects
-
-...
-
-## Deep Learning and Unstructured Data
-
-...
-
-## Data Engineering
-
-...
-
-## Communication and Sharing Your Work
-
-...
-
-## Learning Path and Additional Resources
-
-...
-
-Feel free to explore the course content, work on the provided exercises, and contribute to the repository. Happy learning!
